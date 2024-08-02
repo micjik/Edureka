@@ -1,0 +1,39 @@
+https://nodejs.org/en/download/package-manager
+https://github.com/
+https://git-scm.com/download/win
+https://code.visualstudio.com/download
+https://github.com/Aakashdeveloper?tab=repositories&q=interview&type=&language=&sort=
+vscode extension
+live server
+vscode-icons
+spellcheck
+githistory
+gitlens
+
+HTML - structure
+CSS - design
+BOOTSTRAP - responsive design
+JAVASCRIPT - logics.
+html and css are static while javascript is dynamic. 
+
+html > wrapper tag
+head > connection (css,js)
+body > All the content visible to us.
+indentation control A and click wrap word in view
+block level 
+> it will take the whole width of the screen
+> always start from new line
+> p, div,header footer.
+
+
+inline level
+> only take a width according to the content
+> start in same line
+> img, a, span
+ title is like a tooltip
+ semantic tag: it is a structured tag.
+ tags do not have logic. it will come where you have written the tag
+
+ note that in the list type in orderer list use the number in the start attribute.
+
+ div > division it is the most used tag in html. it is a block element
